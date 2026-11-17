@@ -1,0 +1,11 @@
+para el examen de hoy utilicé la herramienta de Gemini, porque ya le había preguntado algunas cosas que vimos en clase y ya sabia un poquito el contexto del proyecto
+
+también los 3 archivos .dart están en la misma carpeta para no revolverme tanto
+
+para el paso 1 no tuve ningún problema, casi era tal cual pasar lo del texto al código sin tanta complicación
+
+en el paso 2, me base en los archivos de lo que ya veníamos trabajando, el appbar casi se autocompletó todo, al menos esta clase, lo que es visual no batallo tanto porque se completa solo, en donde si le pedi ayuda es en guardar los datos y verificar que al menos en el apartado de peso sea de tipo numerico
+
+para el paso 3, para la pantalla principal del ejercicio fue muy sencillo, primero hice lo visual y luego agregé la función para llamar a la pantalla en donde hacemos los registros del peso, nuevamente casi se autocompletó solo y en esa función si pedí ayuda para pasar los datos entre pantalla
+
+hice un botón en mi home screen pero, sinceramente no había vuelto a correr el programa después de las ultimas clases, solo lo escribi y no se de donde me marca este error :c
